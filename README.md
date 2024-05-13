@@ -10,6 +10,14 @@
 | <ul><li> [ ] </li></ul> | [Lag-Llama]() |  |  | 1B | |
 | <ul><li> [ ] </li></ul> | [Tiny Time Mixers (TTMs)]() |  |  |  | |
 | <ul><li> [ ] </li></ul> | [LLMTime]() |  |  |  | |
+| <ul><li> [ ] </li></ul> | [Chronos](https://arxiv.org/abs/2403.07815) | `Amazon` | March 2024 |  | |
+
+
+
+# Code and implementation
+* https://github.com/amazon-science/chronos-forecasting
+* https://huggingface.co/Salesforce/moirai-1.0-R-large
+* https://blog.salesforceairesearch.com/moirai/
 
 
 
