@@ -12,3 +12,5 @@
 | <ul><li> [ ] </li></ul> | [LLMTime]() |  |  |  | | |
 | <ul><li> [ ] </li></ul> | [Chronos](https://arxiv.org/abs/2403.07815) | `Amazon` | March 2024 |  | 8M, 20M, 46M, 200M, 710M | [code](https://github.com/amazon-science/chronos-forecasting)|
 | <ul><li> [ ] </li></ul> | [VISIONTS](https://arxiv.org/pdf/2408.17253) | `Saleforce` | Agust 2024 |  | | |
+| <ul><li> [ ] </li></ul> | [TIME-MOE: BILLION-SCALE TIME SERIES FOUNDATION MODELS WITH MIXTURE OF EXPERTS](https://arxiv.org/pdf/2409.16040) | `` | Oct 2024 | | | [code](https://github.com/Time-MoE/Time-MoE) |
+
